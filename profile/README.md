@@ -91,7 +91,8 @@ https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoC
 
 
 ## 👨‍👩‍👧‍👦 Members
+<img src="./image/stack/member.png">
 
-<img src="https://github.com/2024-Winter-Bootcamp-Team-J/.github/blob/main/profile/README.md">
 
-<img width="547" alt="스크린샷 2025-01-30 오후 5 47 49" src="" />
+
+
