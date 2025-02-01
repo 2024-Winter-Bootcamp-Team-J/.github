@@ -56,7 +56,7 @@ https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoC
 ## 🛠 Tech stack 
 <br>
 <div align =center>
-
+<br>
 분야| 사용 기술|
 :--------:|:------------------------------:|
 **Frontend** | <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/zustand-8B4513.svg?style=for-the-badge&logo=react&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=D3.js&logoColor=white">
@@ -66,17 +66,18 @@ https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoC
 **etc** | ![Slack](https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=4A154B&logo=Slack&logoColor=FFFFFF&label=) ![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=) ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=) <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </div>
 
-
+<br>
 
 
 ## 💎 ERD
 <img src="./image/stack/erd.png">
+<br>
 
 
 
 ## 📙 API
 <img src="./image/stack/api.png">
-
+<br>
 
 
 ## 🔬 Monitoring
@@ -90,4 +91,7 @@ https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoC
 
 
 ## 👨‍👩‍👧‍👦 Members
+
+<img src="https://github.com/2024-Winter-Bootcamp-Team-J/.github/blob/main/profile/README.md">
+
 <img width="547" alt="스크린샷 2025-01-30 오후 5 47 49" src="" />
