@@ -3,7 +3,7 @@
 
 <p align="center">
   <br>
-  <img src="./images/common/logo-sample.jpeg">
+  <img src="./images/src/Linkin.png">
   <br>
 </p>
 
@@ -23,9 +23,9 @@ GIF Images
 
 ## 기술 스택
 
-| JavaScript | TypeScript |  React   |  Node   |
-| :--------: | :--------: | :------: | :-----: |
-|   ![js]    |   ![ts]    | ![react] | ![node] |
+| JavaScript | TypeScript |  React   | 
+| :--------: | :--------: | :------: | 
+|   ![js]    |   ![ts]    | ![react] | 
 
 <br>
 
