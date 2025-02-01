@@ -25,13 +25,6 @@ GIF Images
 
 MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
 
-<!-- Stack Icon Refernces -->
-
-[js]: /images/stack/javascript.svg
-[ts]: /images/stack/typescript.svg
-[react]: /images/stack/react.svg
-[node]: /images/stack/node.svg
-
 
 
 
@@ -77,16 +70,18 @@ https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoC
 
 
 ## 💎 ERD
-![스크린샷 2025-01-30 오후 5 44 08]()
+<img src="./image/stack/erd.png">
 
 
 
 ## 📙 API
-![스크린샷 2025-01-30 오후 5 44 38]()
+<img src="./image/stack/api.png">
 
 
 
 ## 🔬 Monitoring
+<img src="./image/stack/mornitoring.png">
+<img src="./image/stack/opensearch.png">
 
 
 
