@@ -51,6 +51,7 @@ MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
 
 ## 🚨 System Architecture
 <img src="./image/stack/system.png">
+<br>
 
 ## 🛠 Tech stack 
 <br>
