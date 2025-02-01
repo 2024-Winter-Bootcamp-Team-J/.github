@@ -76,7 +76,7 @@ MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
 <br>
 
 ## 📋 Medium
-  🔖 [F.O.C.U.S](https://medium.com/@alskdj7879/focus-filter-out-chaos-unlock-success-e1dbb2b1eea6)
+  🔖 [ Link - In ](https://medium.com/@sujean07015/linkin-bf4d4d1433b0)
 
 </br>
 
@@ -85,7 +85,7 @@ MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
 
 
 ## 🚨 System Architecture
-<img width="680" alt="스크린샷 2025-01-30 오후 5 24 43" src="https://github.com/user-attachments/assets/d5196234-b8c7-4d66-b507-19860075e6e6" />
+<img width="680" alt="스크린샷 2025-01-30 오후 5 24 43" src="" />
 
 
 ## 🛠 Tech stack 
@@ -105,51 +105,17 @@ MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
 
 
 ## 💎 ERD
-![스크린샷 2025-01-30 오후 5 44 08](https://github.com/user-attachments/assets/24fe7b4e-43f5-4043-8e3a-070cb2be490b)
+![스크린샷 2025-01-30 오후 5 44 08]()
 
 
 
 ## 📙 API
-![스크린샷 2025-01-30 오후 5 44 38](https://github.com/user-attachments/assets/12fbd56e-c177-4758-8316-26e916a0bfd3)
+![스크린샷 2025-01-30 오후 5 44 38]()
 
 
 
 ## 🔬 Monitoring
-&nbsp;&nbsp;Grafana & Prometheus
-<table align="center" style="border-collapse: collapse;">
-   <tr>
-    <td colspan="2" align="center"><b>Docker Dashboard</b></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github.com/user-attachments/assets/b3e7a942-856f-407d-9c71-3bf8fe16bd90" alt="Docker Dashboard" style="width: 800px; height: 300px;">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Celery Dashboard</b></td>
-    <td align="center"><b>FastAPI Dashboard</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/18048a66-2988-467e-972b-5361deba062d" alt="Celery Dashboard" style="width: 400px; height: 200px;">
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/4a7a534f-f7bc-40a0-b329-b1cca886ebce" alt="FastAPI Dashboard" style="width: 400px; height: 200px;">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Nginx Dashboard</b></td>
-    <td align="center"><b>RabbitMQ Dashboard</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/de1f834d-59f1-4409-9b44-6b4899112302" alt="Nginx Dashboard" style="width: 400px; height: 200px;">
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/5560a6b9-2d14-4f65-aef7-b78fd6dbec98" alt="RabbitMQ Dashboard" style="width: 400px; height: 200px;">
-    </td>
-  </tr>
-</table>
+
 
 
 <br>
@@ -157,4 +123,4 @@ MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
 
 
 ## 👨‍👩‍👧‍👦 Members
-<img width="547" alt="스크린샷 2025-01-30 오후 5 47 49" src="https://github.com/user-attachments/assets/53964275-1a2f-4e18-a836-9946020b0940" />
+<img width="547" alt="스크린샷 2025-01-30 오후 5 47 49" src="" />
