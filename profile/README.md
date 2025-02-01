@@ -3,7 +3,7 @@
 
 <p align="center">
   <br>
-  <img src="./images/common/logo-sample.jpeg">
+  <img src="./images/src/Linkin.png">
   <br>
 </p>
 
