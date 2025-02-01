@@ -21,34 +21,6 @@ GIF Images
 
 <br>
 
-## 기술 스택
-
-| JavaScript | TypeScript |  React   | 
-| :--------: | :--------: | :------: | 
-|   ![js]    |   ![ts]    | ![react] | 
-
-<br>
-
-## 구현 기능
-
-### 기능 1
-
-### 기능 2
-
-### 기능 3
-
-### 기능 4
-
-<br>
-
-## 배운 점 & 아쉬운 점
-
-<p align="justify">
-
-</p>
-
-<br>
-
 ## 라이센스
 
 MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
