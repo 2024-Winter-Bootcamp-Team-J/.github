@@ -50,8 +50,7 @@ MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
 
 
 ## 🚨 System Architecture
-<img width="680" alt="스크린샷 2025-01-30 오후 5 24 43" src="" />
-https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white
+<img src="./image/stack/system.png">
 
 ## 🛠 Tech stack 
 <br>
