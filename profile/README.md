@@ -48,41 +48,44 @@
 
 <br>
 
-# 🎥 Demo
 
-### Innit Animation
-> Link-In 에 접속시 보이는 사용자가 생성한 관계도 입니다.
+# 🎥 Demo + Main Features
+
+### 🚀Main Feature
+> 사용자가 원하는 기록을 입력합니다.
+> Link-In 이 알아서 사용자와의 관계까지 정해줍니다!
 <br>
-<img align="center" width="1000" alt="ViewCategory" src="./gif/viewCategory.gif">
+<img align="center" width="1000" alt="Login" src="./gif/addmemo.gif">
 <br><br>
 
-### Login
-> 로그인하여 Link-In 에 접속하는 화면입니다.
+
+### 😊Login
+> 로그인하여 Link-In 에 접속합니다.
 <br>
 <img align="center" width="1000" alt="Login" src="./gif/login.gif">
 <br><br>
 
-### addMemo
-> Link-In 이후 사용자의 기록을 입력합니다.
+### 💽Innit Animation
+> Link-In 에 접속시 보이는 사용자가 생성한 관계도 입니다.
 <br>
-<img align="center" width="1000" alt="Login" src="./gif/Login.gif">
+<img align="center" width="1000" alt="ViewCategory" src="./gif/viewRelation.gif">
 <br><br>
 
 
-### ViewMemo
+### 🎛️ViewMemo
 > 사용자가 기록한 메모를 확인합니다.
 <br>
 <img align="center" width="1000" alt="ViewMemo" src="./gif/viewMemo.gif">
 <br><br>
 
 
-### ViewCategory
+### 🔦ViewCategory
 > 사용자가 생성한 여러 관계들을 확인할 수 있습니다.
 <br>
-<img align="center" width="1000" alt="ViewCategory" src="./gif/viewCategory.gif">
+<img align="center" width="1000" alt="ViewCategory" src="./gif/viewcategory.gif">
 <br><br>
 
-### Search
+### 💡Search
 > 유연한 검색을 통해 과거의 기억을 찾을 수 있습니다.
 <br>
 <img align="center" width="1000" alt="search" src="./gif/search.gif">
