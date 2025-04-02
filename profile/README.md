@@ -2,7 +2,7 @@
 <h1 align="center"> 🔗 Link-In 🔗 </h1>
 <div align="center"> 
 <h3><b>   </b></h3><br>
-<img width="1503" src="./image/src/Linkin.png" alt="대표 이미지">
+<img width="1503" src="./image/src/Linkin.png?raw=true" alt="대표 이미지">
 <h3><b>Link between us <br> 🔎관계를 기억하고 관리하는 가장 쉬운 방법</b></h3>
 <br>
 </div>
@@ -55,40 +55,40 @@
 > 사용자가 원하는 기록을 입력합니다.
 > Link-In 이 알아서 사용자와의 관계까지 정해줍니다!
 <br>
-<img align="center" width="1000" alt="Login" src="./gif/addmemo.gif">
+<img align="center" width="1000" alt="Login" src="./gif/addmemo.gif?raw=true">
 <br><br>
 
 
 ### 😊Login
 > 로그인하여 Link-In 에 접속합니다.
 <br>
-<img align="center" width="1000" alt="Login" src="./gif/login.gif">
+<img align="center" width="1000" alt="Login" src="./gif/login.gif?raw=true">
 <br><br>
 
 ### 💽Innit Animation
 > Link-In 에 접속시 보이는 사용자가 생성한 관계도 입니다.
 <br>
-<img align="center" width="1000" alt="ViewCategory" src="./gif/viewRelation.gif">
+<img align="center" width="1000" alt="ViewCategory" src="./gif/viewRelation.gif?raw=true">
 <br><br>
 
 
 ### 🎛️ViewMemo
 > 사용자가 기록한 메모를 확인합니다.
 <br>
-<img align="center" width="1000" alt="ViewMemo" src="./gif/viewMemo.gif">
+<img align="center" width="1000" alt="ViewMemo" src="./gif/viewMemo.gif?raw=true">
 <br><br>
 
 
 ### 🔦ViewCategory
 > 사용자가 생성한 여러 관계들을 확인할 수 있습니다.
 <br>
-<img align="center" width="1000" alt="ViewCategory" src="./gif/viewcategory.gif">
+<img align="center" width="1000" alt="ViewCategory" src="./gif/viewcategory.gif?raw=true">
 <br><br>
 
 ### 💡Search
 > 유연한 검색을 통해 과거의 기억을 찾을 수 있습니다.
 <br>
-<img align="center" width="1000" alt="search" src="./gif/search.gif">
+<img align="center" width="1000" alt="search" src="./gif/search.gif?raw=true">
 <br><br>
 
 
@@ -108,7 +108,7 @@
 
 
 # 🚨 System Architecture
-<img src="./image/stack/system.png">
+<img src="./image/stack/system.png?raw=true">
 <br>
 
 # 🛠 Tech stack 
@@ -136,19 +136,19 @@
 
 
 # 💎 ERD
-<img src="./image/stack/erd.png">
+<img src="./image/stack/erd.png?raw=true">
 <br>
 
 
 
 # 📙 API
-<img src="./image/stack/api.png">
+<img src="./image/stack/api.png?raw=true">
 <br>
 
 
 # 🔬 Monitoring
-<img src="./image/stack/mornitoring.png">
-<img src="./image/stack/opensearch.png">
+<img src="./image/stack/mornitoring.png?raw=true">
+<img src="./image/stack/opensearch.png?raw=true">
 
 
 
@@ -157,7 +157,7 @@
 
 
 # 👨‍👩‍👧‍👦 Members
-<img src="./image/stack/member.png">
+<img src="./image/stack/member.png?raw=true">
 
 
 ## 라이센스
